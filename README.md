@@ -1,4 +1,4 @@
 scripts
 =======
 
-Scripts for operations manager (powershell &amp; vbscript)
+Scripts for System Center Operations Manager (powershell, vbscript)
